@@ -1,7 +1,7 @@
 <script>
   import Section from './lib/Section.svelte'
   import ModeToggle from './lib/ModeToggle.svelte'
-  import Emoji from './lib/Emoji.svelte'
+  /* import Emoji from './lib/Emoji.svelte' */
 </script>
 
 <main>
@@ -12,7 +12,7 @@
   <Section title={"Have"} picture1={"nike.jpg"} picture2={"selfie1.jpg"}/>
   <Section title={"A"} picture1={"selfie2.jpg"} picture2={"anand.jpg"}/>
   <Section title={"Great"} picture1={"king.jpg"} picture2={"shop4.jpg"}/>
-  <Section title={"One"} picture1={"sixth.jpg"}/>
+  <Section title={"One"} picture1={"sixth.jpg"} picture2={""}/>
   <ModeToggle />
 
 
