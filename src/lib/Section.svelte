@@ -2,15 +2,14 @@
   export let title;
   export let picture1;
   export let picture2;
-  AOS.init();
   /* let visible = true; */
 </script>
 
 
 <section id="one">
   <h1> {title} </h1>
-    <img src="src/assets/img/{picture1}" alt={picture1} />
-    <img src="src/assets/img/{picture2}" alt={picture2} /> 
+  <img src="/static/{picture1}" alt={picture1} />
+  <img src="/static/{picture2}" alt={picture2} /> 
 
 </section>
 
