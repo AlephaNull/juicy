@@ -41,7 +41,7 @@
   :global(body) {
 		background-color: #f2eee2;
 		color: #0084f6;
-		transition: background-color 5s
+		transition: background-color 2s
 	}
 	:global(body.dark-mode) {
 		background-color: #1d3040;
@@ -53,7 +53,7 @@
 
   }
 
-  main.dark {
+  .dark {
     background: #292c35;
   }
 
