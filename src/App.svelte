@@ -55,8 +55,8 @@
 
   }
 
-  .dark {
-    background: #292c35;
-  }
+  /* .dark { */
+  /*   background: #292c35; */
+  /* } */
 
 </style>
