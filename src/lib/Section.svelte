@@ -8,8 +8,8 @@
 
 <section id="one">
   <h1> {title} </h1>
-  <img src="/public/{picture1}" alt={picture1} />
-  <img src="/public/{picture2}" alt={picture2} /> 
+  <img src="https://i.imgur.com/{picture1}" alt={picture1} />
+  <img src="https://i.imgur.com/{picture2}" alt={picture2} />
 
 </section>
 

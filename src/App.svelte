@@ -7,16 +7,13 @@
 <main>
 
   <ModeToggle> Light </ModeToggle> 
-  <Section title={"Happy"} picture1={"shop.jpg"} picture2={"turf2.jpg"}/> 
-  <Section title={"Birthday"} picture1={"shop2.jpg"} picture2={"turf3.jpg"} /> 
-  <Section title={"Arhaan"} picture1={"shop3.jpg"} picture2={"turf1.jpg"}/>
-  <Section title={"Have"} picture1={"nike.jpg"} picture2={"selfie1.jpg"}/>
-  <Section title={"A"} picture1={"selfie2.jpg"} picture2={"anand.jpg"}/>
-  <Section title={"Great"} picture1={"king.jpg"} picture2={"shop4.jpg"}/>
-  <Section title={"One"} picture1={"sixth.jpg"} picture2={"fav.jpg"}/>
- 
-  <img src="https://i.imgur.com/CEG0nlh.jpeg" alt="img" />
-
+  <Section title={"Happy"} picture1={"wTgcIn7.jpg"} picture2={"AwSUZBL.jpg"}/> <!-- shop and turf2 -->
+  <Section title={"Birthday"} picture1={"VyX2a2u.jpg"} picture2={"SysfYZa.jpg"} /> <!-- shop2 an turf3 -->
+  <Section title={"Arhaan"} picture1={"zrLqDTG.jpg"} picture2={"BIiWfq7.jpg"}/> <!-- shop3 and turf1 -->
+  <Section title={"Have"} picture1={"FHoUONZ.jpg"} picture2={"CH3XAqk.jpg"}/> <!-- nike,jpg and selfie1.jpg -->
+  <Section title={"A"} picture1={"1s0CByS.jpg"} picture2={"Gj2VbR3.jpg"}/> <!-- selfie2.jpg and anand.jpg --> 
+  <Section title={"Great"} picture1={"4f1NYTm.jpg"} picture2={"LaqMact.jpg"}/> <!-- king.jpg and shop4.jpg -->
+  <Section title={"One"} picture1={"CEG0nlh.jpeg"} picture2={"gOloET9.jpg"}/> <!-- sixth.jpg and fav.jpg -->
 
 </main>
 
