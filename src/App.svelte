@@ -5,6 +5,7 @@
 </script>
 
 <main>
+
   <ModeToggle> Light </ModeToggle> 
   <Section title={"Happy"} picture1={"shop.jpg"} picture2={"turf2.jpg"}/> 
   <Section title={"Birthday"} picture1={"shop2.jpg"} picture2={"turf3.jpg"} /> 
@@ -14,8 +15,7 @@
   <Section title={"Great"} picture1={"king.jpg"} picture2={"shop4.jpg"}/>
   <Section title={"One"} picture1={"sixth.jpg"} picture2={"fav.jpg"}/>
  
-
-  <ModeToggle />
+  <img src="https://i.imgur.com/CEG0nlh.jpeg" alt="img" />
 
 
 </main>
