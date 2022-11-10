@@ -45,14 +45,14 @@
     100% { color: #cc0099; }
   }
 
-  @media screen and (max-width: 375px) {
+  @media screen and (max-width: 500px) {
     section#one {
       flex-direction: column;
       padding: 0;
     }
     img {
-      max-width: 20rem;
-      max-height: 10rem;
+      max-width: 15rem;
+      max-height: 7.5rem;
     }
   }
 
